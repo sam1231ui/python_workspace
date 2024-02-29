@@ -1,0 +1,36 @@
+13 02 24 1707809561.447153 file_app_logger INFO user select 2
+13 02 24 1707809567.882287 file_app_logger INFO file name entered
+13 02 24 1707809567.892082 file_app_logger INFO file object opened
+13 02 24 1707809577.230480 file_app_logger INFO file reading complete
+13 02 24 1707809582.718038 file_app_logger INFO user select 1
+13 02 24 1707809706.286933 file_app_logger INFO file name entered
+13 02 24 1707809706.287500 file_app_logger INFO file object opened
+13 02 24 1707809706.287833 file_app_logger INFO file reading complete
+13 02 24 1707809706.288037 file_app_logger INFO file object closed
+13 02 24 1707809713.112413 file_app_logger INFO ////End/////
+ 
+13 02 24 1707809747.026406 file_app_logger INFO user select 1
+13 02 24 1707809749.028897 file_app_logger INFO file name entered
+13 02 24 1707809749.029212 root ERROR file reading error occurred [Errno 2] No such file or directory: 'ss'
+Traceback (most recent call last):
+  File "/home/samruddhak/Desktop/Python-Workspace/pythonProject/python_basic_demos/file_handling/file_app.py", line 17, in read_file
+    f = open(name, 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'ss'
+13 02 24 1707809749.040150 file_app_logger INFO file object closed
+INFO 1707815827.707784 file_app_logger  user select 1 13 02 24
+INFO 1707815837.350122 file_app_logger  file name entered 13 02 24
+INFO 1707815837.360238 file_app_logger  file object opened 13 02 24
+INFO 1707815837.360630 file_app_logger  file reading complete 13 02 24
+INFO 1707815837.360826 file_app_logger  file object closed 13 02 24
+INFO 1707815841.927480 file_app_logger  user select 2 13 02 24
+INFO 1707815846.307589 file_app_logger  file name entered 13 02 24
+INFO 1707815846.319731 file_app_logger  file object opened 13 02 24
+INFO 1707815852.189022 file_app_logger  file writing complete 13 02 24
+INFO 1707815852.198940 file_app_logger  File object closed 13 02 24
+INFO 1707815876.442548 file_app_logger  user select 1 13 02 24
+INFO 1707815881.989744 file_app_logger  file name entered 13 02 24
+INFO 1707815881.999841 file_app_logger  file object opened 13 02 24
+INFO 1707815882.000029 file_app_logger  file reading complete 13 02 24
+INFO 1707815882.000117 file_app_logger  file object closed 13 02 24
+INFO 1707815889.376013 file_app_logger  ////End/////
+  13 02 24

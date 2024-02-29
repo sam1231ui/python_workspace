@@ -1,0 +1,14 @@
+13 02 24 reading of file completed
+13 02 24 Harmless debug Message
+13 02 24 reading of file completed
+13 02 24 Harmless debug Message
+13 02 24 reading of file completed
+13 02 24 Harmless debug Message
+13 02 24 - file_logger - INFO - reading of file completed
+13 02 24 - file_logger - DEBUG - Harmless debug Message
+13 02 24 - file_logger - INFO - reading of file completed
+13 02 24 - file_logger - DEBUG - Harmless debug Message
+13 02 24 file_logger INFO reading of file completed
+13 02 24 file_logger DEBUG Harmless debug Message
+2024-02-13 12:39:24,656 file_logger INFO reading of file completed
+2024-02-13 12:39:24,656 file_logger DEBUG Harmless debug Message
