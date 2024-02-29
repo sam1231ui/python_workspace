@@ -1,4 +1,7 @@
-# [Bank App with Database](Bank_app_with_db)
+# Python Work - Space
+
+
+## [Bank App with Database](Bank_app_with_db)
 
 Includes examples and code related to MongoDB joins in the bank application. It further consists of the following subfolders:
 
